@@ -1,16 +1,200 @@
-## Hi there 👋
+# 👋 Hey, I'm Abhirup Das!
 
-<!--
-**abhirup0421L/abhirup0421L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Android+Developer+%F0%9F%93%B1;Building+Ideas+into+Real+Projects+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:00C9FF,100:7F00FF&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+🎓 **B.Tech Computer Science Engineering Student**
+
+💻 Passionate about **Software Development, AI, Full Stack Development & Mobile Applications**
+
+🚀 I love turning ideas into **real-world projects**
+
+🤖 Exploring **Generative AI, Gemini API & AI-powered applications**
+
+🌐 Building modern web applications using **Python, React & FastAPI**
+
+📱 Currently learning **Android Development with Kotlin & Jetpack Compose**
+
+🧠 Always learning something new and experimenting with technology
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,kotlin,javascript,html,css" />
+</p>
+
+### 🚀 Frameworks & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,streamlit,androidstudio,nodejs" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,idea" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🟢 GreenDot — AI Career Platform
+
+An AI-powered career platform designed to help users build better resumes and prepare for their careers.
+
+**Features:**
+
+* 📄 ATS + AI Resume Checker
+* 🤖 Google Gemini AI Integration
+* ✍️ AI Resume Builder
+* 📑 Smart AI PDF Recognition
+* 🎯 AI Interview Preparation
+* 📊 Difficulty-based interview questions
+* 🎟️ Interactive coupon system
+* 🔐 Password & OTP authentication
+* ✨ Animated landing page
+* 🌍 Support for any job role
+
+**Tech Stack:**
+
+`Python` `Streamlit` `MongoDB` `Google Gemini AI`
+
+---
+
+### 🔒 Priva — Online Chatting Platform
+
+A modern online chatting web application focused on privacy, simplicity and customization.
+
+**Features:**
+
+* 📧 Email-based authentication
+* 🚫 No phone number required
+* 👤 Unique username system
+* 💬 Real-time messaging
+* 🟢 Online/offline presence
+* 🎨 Customizable UI
+* ⚡ WebSocket communication
+
+**Tech Stack:**
+
+`React` `FastAPI` `WebSockets` `MongoDB`
+
+> 🚧 Currently under development.
+
+---
+
+### ♾️ Endless Tic-Tac-Toe
+
+A modern multiplayer twist on the classic Tic-Tac-Toe game.
+
+**Features:**
+
+* 🎮 2–4 player support
+* 🤖 AI game mode
+* 🌐 Online multiplayer
+* ⚡ Real-time WebSocket networking
+* 🔄 Endless board mechanics
+* 😄 Live emoji reactions
+* 🎨 Jetpack Compose UI
+* 📱 Native Android application
+
+**Tech Stack:**
+
+`Kotlin` `Jetpack Compose` `WebSockets` `Android`
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Full Stack Development    ████████████████░░░  85%
+Artificial Intelligence   ██████████████░░░░░  75%
+Data Structures & Algo    █████████████░░░░░░  70%
+Android Development       ███████████░░░░░░░░  55%
+System Design             ██████████░░░░░░░░░  50%
+```
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build more production-ready applications
+* 🤖 Deepen my knowledge of AI & Generative AI
+* 🌐 Become stronger in Full Stack Development
+* 📱 Improve my Android Development skills
+* 🧠 Master DSA & problem solving
+* ☁️ Learn more about cloud deployment
+* 🤝 Contribute to open-source projects
+* 💡 Turn more ideas into real products
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhirup0421L&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirup0421L&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhirup0421L/abhirup0421L/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/abhirup0421L">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:abhirupd476@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Developer Mindset
+
+<p align="center">
+
+### **"Build. Break. Learn. Improve. Repeat." 🚀**
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:00FF87&height=120&section=footer&animation=fadeIn" />
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+
+<p align="center">
+  <i>Let's build something awesome together. 💚</i>
+</p>
