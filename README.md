@@ -146,11 +146,7 @@ System Design             ██████████░░░░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirup0421L&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Abhirup's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirup0421L&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhirup0421L&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
