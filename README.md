@@ -146,9 +146,11 @@ System Design             ██████████░░░░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirup0421L&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhirup0421L&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Abhirup's GitHub Stats" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirup0421L&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirup0421L&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
 </p>
 
 ---
