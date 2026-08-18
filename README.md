@@ -118,6 +118,27 @@ A modern multiplayer twist on the classic Tic-Tac-Toe game.
 
 ---
 
+### 💰 Featured Project — EzWallet
+
+> 🔐 **Secure • Organized • Personalized**
+
+**EzWallet** is an Android document & personal information manager designed to keep important files, contacts, notes, and personal details securely organized in one place.
+
+#### ✨ Key Features
+
+* 📂 **Document Management** — Photos, PDFs, Contact Cards & secure Text Notes
+* 🔎 **Universal Search** — Search documents, contacts, categories & folders
+* 🔐 **AppLock Security** — 4-digit PIN protection & secure deletion verification
+* 🗂️ **Smart Organization** — Folders, categories, tags & custom sorting
+* 🎨 **Custom Themes** — Personalize background, primary & card colors
+* 🖼️ **Multiple View Modes** — Bars, Grid Boxes & Horizontal Cards
+* 👤 **Personal Profile** — Store name, DOB, phone, email, age & address
+* ⚡ **Flexible Sorting** — Date, Alphabetical & Custom ordering
+
+**Tech:** `Kotlin` • `Android Studio` • `UI/UX` • `App Security` • `File Management`
+
+---
+
 ## 🧠 Currently Learning
 
 ```text
