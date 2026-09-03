@@ -58,8 +58,8 @@
 
 ### 🟢 GreenDot — AI Career Platform
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF87,100:00C9FF&height=45&width=430&text=🟢%20GreenDot%20—%20AI%20Career%20Platform&fontSize=18&fontColor=000000&animation=fadeIn&strokeWidth=0" alt="GreenDot Animated Banner" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A2+GreenDot+%E2%80%94+AI+Career+Platform;Build+Smarter.+Prepare+Better.+Succeed." alt="GreenDot Animated Heading"/>
 </p>
 
 An AI-powered career platform designed to help users build better resumes and prepare for their careers.
