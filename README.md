@@ -79,7 +79,7 @@ An AI-powered career platform designed to help users build better resumes and pr
 
 <p align="left">
   <a href="https://greendot.abhirupdas.in" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-greendot.abhirupdas.in-00FF87?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=161B22" alt="GreenDot Live Demo"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF87,100:00C9FF&height=38&width=230&text=🟢%20Launch%20GreenDot%20↗&fontSize=16&fontColor=000000&animation=fadeIn&strokeWidth=1" alt="Launch GreenDot" />
   </a>
 </p>
 ---
