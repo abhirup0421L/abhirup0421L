@@ -196,7 +196,11 @@ System Design             ██████████░░░░░░░░
 
 <p align="center">
 
-<a href="https://github.com/abhirup0421L">
+<a href="https://linkedin.abhirupdas.in" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhirup0421L" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
