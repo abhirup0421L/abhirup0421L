@@ -167,8 +167,7 @@ System Design             ██████████░░░░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirup0421L&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhirup0421L&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhirup0421L&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
