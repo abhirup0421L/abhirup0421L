@@ -77,6 +77,11 @@ An AI-powered career platform designed to help users build better resumes and pr
 
 `Python` `Streamlit` `MongoDB` `Google Gemini AI`
 
+<p align="left">
+  <a href="https://greendot.abhirupdas.in" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-greendot.abhirupdas.in-00FF87?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=161B22" alt="GreenDot Live Demo"/>
+  </a>
+</p>
 ---
 
 ### 🔒 Priva — Online Chatting Platform
