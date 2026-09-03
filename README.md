@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # 👋 Hey, I'm Abhirup Das!
 
 <p align="center">
@@ -147,86 +149,3 @@ Artificial Intelligence   ██████████████░░░░
 Data Structures & Algo    █████████████░░░░░░  70%
 Android Development       ███████████░░░░░░░░  55%
 System Design             ██████████░░░░░░░░░  50%
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more production-ready applications
-* 🤖 Deepen my knowledge of AI & Generative AI
-* 🌐 Become stronger in Full Stack Development
-* 📱 Improve my Android Development skills
-* 🧠 Master DSA & problem solving
-* ☁️ Learn more about cloud deployment
-* 🤝 Contribute to open-source projects
-* 💡 Turn more ideas into real products
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhirup0421L&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/abhirup0421L/abhirup0421L/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/abhirup0421L/abhirup0421L/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/abhirup0421L/abhirup0421L/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/abhirup0421L">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:abhirupd476@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💭 Developer Mindset
-
-<p align="center">
-
-### **"Build. Break. Learn. Improve. Repeat." 🚀**
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:00FF87&height=120&section=footer&animation=fadeIn" />
-</p>
-
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
-
-<p align="center">
-  <i>Let's build something awesome together. 💚</i>
-</p>
