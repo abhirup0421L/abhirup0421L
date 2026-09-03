@@ -167,9 +167,8 @@ System Design             ██████████░░░░░░░░
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abhirup0421L&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhirup0421L&theme=tokyonight" alt="GitHub Activity Summary" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
