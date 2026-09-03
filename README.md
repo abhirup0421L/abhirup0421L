@@ -56,245 +56,9 @@
 
 ## 🚀 Featured Projects
 
-### 🟢 GreenDot — AI Career Platform
-
-<svg width="900" height="150" viewBox="0 0 900 150"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-
-    <!-- Green gradient -->
-    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ff88"/>
-      <stop offset="50%" stop-color="#00ffb3"/>
-      <stop offset="100%" stop-color="#00e676"/>
-    </linearGradient>
-
-    <!-- Glow -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Strong glow -->
-    <filter id="strongGlow">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Scan gradient -->
-    <linearGradient id="scanGradient">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-
-  </defs>
-
-
-  <!-- Background -->
-  <rect width="900" height="150"
-        rx="20"
-        fill="#07140e"
-        opacity="0.35"/>
-
-
-  <!-- Decorative left circuit -->
-
-  <path d="M30 75 H170"
-        stroke="#00ff88"
-        stroke-width="2"
-        opacity="0.25"/>
-
-  <circle cx="30" cy="75" r="4"
-          fill="#00ff88"
-          filter="url(#glow)">
-
-    <animate
-      attributeName="r"
-      values="3;6;3"
-      dur="2s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-
-  <!-- Decorative right circuit -->
-
-  <path d="M730 75 H870"
-        stroke="#00ff88"
-        stroke-width="2"
-        opacity="0.25"/>
-
-  <circle cx="870" cy="75" r="4"
-          fill="#00ff88"
-          filter="url(#glow)">
-
-    <animate
-      attributeName="r"
-      values="3;6;3"
-      dur="2s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-
-  <!-- Orbit -->
-
-  <ellipse
-      cx="450"
-      cy="65"
-      rx="255"
-      ry="48"
-      fill="none"
-      stroke="#00ff88"
-      stroke-width="1"
-      stroke-dasharray="5 12"
-      opacity="0.25">
-
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 450 65"
-      to="360 450 65"
-      dur="12s"
-      repeatCount="indefinite"/>
-
-  </ellipse>
-
-
-  <!-- Orbiting Green Energy -->
-
-  <circle
-      cx="705"
-      cy="65"
-      r="6"
-      fill="#00ff88"
-      filter="url(#strongGlow)">
-
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 450 65"
-      to="360 450 65"
-      dur="4s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-
-  <!-- Main GreenDot heading -->
-
-  <text
-      x="450"
-      y="70"
-      text-anchor="middle"
-      font-family="Arial, Helvetica, sans-serif"
-      font-size="42"
-      font-weight="700"
-      font-style="italic"
-      fill="url(#greenGradient)"
-      filter="url(#glow)">
-
-      GreenDot
-
-      <!-- Breathing glow -->
-
-      <animate
-        attributeName="opacity"
-        values="0.75;1;0.75"
-        dur="2.5s"
-        repeatCount="indefinite"/>
-
-  </text>
-
-
-  <!-- Subtitle -->
-
-  <text
-      x="450"
-      y="105"
-      text-anchor="middle"
-      font-family="Arial, Helvetica, sans-serif"
-      font-size="15"
-      letter-spacing="4"
-      fill="#8affc8"
-      opacity="0.85">
-
-      AI CAREER PLATFORM
-
-  </text>
-
-
-  <!-- Moving scan line -->
-
-  <rect
-      x="180"
-      y="35"
-      width="4"
-      height="55"
-      rx="2"
-      fill="url(#scanGradient)"
-      opacity="0.8">
-
-    <animate
-      attributeName="x"
-      values="180;720;180"
-      dur="4s"
-      repeatCount="indefinite"/>
-
-  </rect>
-
-
-  <!-- Floating particles -->
-
-  <circle cx="230" cy="35" r="2" fill="#00ff88">
-
-    <animate
-      attributeName="cy"
-      values="35;20;35"
-      dur="2.5s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-  <circle cx="680" cy="115" r="2" fill="#00ff88">
-
-    <animate
-      attributeName="cy"
-      values="115;130;115"
-      dur="3s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-  <circle cx="760" cy="40" r="2" fill="#00ff88">
-
-    <animate
-      attributeName="cy"
-      values="40;25;40"
-      dur="2.8s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-  <circle cx="150" cy="110" r="2" fill="#00ff88">
-
-    <animate
-      attributeName="cy"
-      values="110;125;110"
-      dur="3.2s"
-      repeatCount="indefinite"/>
-
-  </circle>
-
-</svg>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF87,50:00FFB3,100:00C853&height=65&text=🟢%20GreenDot%20—%20AI%20Career%20Platform&fontSize=25&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00FF87&strokeWidth=1" width="95%" alt="GreenDot Animated Heading" />
+</p>
 
 An AI-powered career platform designed to help users build better resumes and prepare for their careers.
 
@@ -322,7 +86,9 @@ An AI-powered career platform designed to help users build better resumes and pr
 </p>
 ---
 
-### 🔒 Priva — Online Chatting Platform
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:0088FF,100:7F00FF&height=65&text=🔒%20Priva%20—%20Online%20Chatting%20Platform&fontSize=25&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00C9FF&strokeWidth=1" width="95%" alt="Priva Animated Heading" />
+</p>
 
 A modern online chatting web application focused on privacy, simplicity and customization.
 
@@ -350,7 +116,9 @@ A modern online chatting web application focused on privacy, simplicity and cust
 
 ---
 
-### ♾️ Endless Tic-Tac-Toe
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:B829FF,100:00C9FF&height=65&text=♾️%20Endless%20Tic-Tac-Toe&fontSize=27&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=B829FF&strokeWidth=1" width="95%" alt="Endless Tic-Tac-Toe Animated Heading" />
+</p>
 
 A modern multiplayer twist on the classic Tic-Tac-Toe game.
 
@@ -371,7 +139,9 @@ A modern multiplayer twist on the classic Tic-Tac-Toe game.
 
 ---
 
-### 💰 EzWallet
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:00FF87,100:00C9FF&height=65&text=💰%20EzWallet&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00FF87&strokeWidth=1" width="95%" alt="EzWallet Animated Heading" />
+</p>
 
 > 🔐 **Secure • Organized • Personalized**
 
@@ -400,7 +170,6 @@ Artificial Intelligence   ██████████████░░░░
 Data Structures & Algo    █████████████░░░░░░  70%
 Android Development       ███████████░░░░░░░░  55%
 System Design             ██████████░░░░░░░░░  50%
-```
 
 ---
 
