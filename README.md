@@ -57,6 +57,9 @@
 ## 🚀 Featured Projects
 
 ### 🟢 GreenDot — AI Career Platform
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF87&background=00000000&left=true&vCenter=true&width=500&height=40&lines=🟢+GreenDot+—+AI+Career+Platform;⚡+Smart+ATS+%26+Resume+Builder;🤖+Powered+by+Google+Gemini+AI" alt="GreenDot Animated Heading" />
+</p>
 
 An AI-powered career platform designed to help users build better resumes and prepare for their careers.
 
