@@ -104,6 +104,12 @@ A modern online chatting web application focused on privacy, simplicity and cust
 
 > 🚧 Currently under development.
 
+<p align="left">
+  <a href="https://priva.abhirupdas.in" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:B829FF&height=38&width=230&text=💬%20Launch%20Priva%20↗&fontSize=16&fontColor=ffffff&animation=fadeIn&strokeWidth=1" alt="Launch Priva" />
+  </a>
+</p>
+
 ---
 
 ### ♾️ Endless Tic-Tac-Toe
