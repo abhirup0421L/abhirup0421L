@@ -56,9 +56,7 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF87,50:00FFB3,100:00C853&height=65&text=🟢%20GreenDot%20—%20AI%20Career%20Platform&fontSize=25&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00FF87&strokeWidth=1" width="95%" alt="GreenDot Animated Heading" />
-</p>
+### 🟢 GreenDot — AI Career Platform
 
 An AI-powered career platform designed to help users build better resumes and prepare for their careers.
 
@@ -86,9 +84,7 @@ An AI-powered career platform designed to help users build better resumes and pr
 </p>
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:0088FF,100:7F00FF&height=65&text=🔒%20Priva%20—%20Online%20Chatting%20Platform&fontSize=25&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00C9FF&strokeWidth=1" width="95%" alt="Priva Animated Heading" />
-</p>
+### 🔒 Priva — Online Chatting Platform
 
 A modern online chatting web application focused on privacy, simplicity and customization.
 
@@ -116,9 +112,7 @@ A modern online chatting web application focused on privacy, simplicity and cust
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:B829FF,100:00C9FF&height=65&text=♾️%20Endless%20Tic-Tac-Toe&fontSize=27&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=B829FF&strokeWidth=1" width="95%" alt="Endless Tic-Tac-Toe Animated Heading" />
-</p>
+### ♾️ Endless Tic-Tac-Toe
 
 A modern multiplayer twist on the classic Tic-Tac-Toe game.
 
@@ -139,9 +133,7 @@ A modern multiplayer twist on the classic Tic-Tac-Toe game.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:00FF87,100:00C9FF&height=65&text=💰%20EzWallet&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00FF87&strokeWidth=1" width="95%" alt="EzWallet Animated Heading" />
-</p>
+### 💰 EzWallet
 
 > 🔐 **Secure • Organized • Personalized**
 
@@ -170,6 +162,7 @@ Artificial Intelligence   ██████████████░░░░
 Data Structures & Algo    █████████████░░░░░░  70%
 Android Development       ███████████░░░░░░░░  55%
 System Design             ██████████░░░░░░░░░  50%
+```
 
 ---
 
