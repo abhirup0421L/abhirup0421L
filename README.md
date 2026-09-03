@@ -176,7 +176,7 @@ System Design             ██████████░░░░░░░░
 <p align="center">
   <picture>
     <source
-      media="(prefers-color-scheme: light)"
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/abhirup0421L/abhirup0421L/output/github-snake-dark.svg"
     />
     <source
