@@ -237,6 +237,6 @@ System Design             ██████████░░░░░░░░
 
 <p align="center">
   <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%AC%86%EF%B8%8F-00FF87?style=for-the-badge&labelColor=000000" alt="Back to Top"/>
+    <img src="https://img.shields.io/badge/▲%20Scroll%20to%20Top-1A1B27?style=for-the-badge&logoColor=00FF87" alt="Scroll to Top"/>
   </a>
 </p>
