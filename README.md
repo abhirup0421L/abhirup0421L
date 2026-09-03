@@ -1,6 +1,10 @@
 # 👋 Hey, I'm Abhirup Das!
 
 <p align="center">
+  <img src="https://github.com/abhirup0421L.png" width="160" style="border-radius: 50%; box-shadow: 0px 0px 20px #00FF87;" alt="Abhirup Das Avatar" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Android+Developer+%F0%9F%93%B1;Building+Ideas+into+Real+Projects+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
